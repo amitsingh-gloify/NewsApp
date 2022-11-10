@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/allnews_nav"
+        android:title="ALL NEWS"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        />
+    <item
+        android:id="@+id/topstory_nav"
+        android:title="TOP STORIES"
+        android:icon="@drawable/ic_baseline_star_24"
+        />
+    <item
+        android:id="@+id/trending_nav"
+        android:title="TRENDING"
+        android:icon="@drawable/ic_baseline_local_fire_department_24"
+        />
+    <item
+        android:id="@+id/bookmark_nav"
+        android:title="BOOKMARKS"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        />
+</menu>

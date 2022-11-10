@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_relevance_nav"
+        android:title="Relevance"
+        android:icon="@drawable/ic_baseline_question_mark_24"
+        />
+    <item
+        android:id="@+id/bottom_share_nav"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24"
+        />
+    <item
+        android:id="@+id/bottom_bookmark_nav"
+        android:title="Bookmark"
+        />
+</menu>
